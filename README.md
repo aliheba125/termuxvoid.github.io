@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://termuxvoid.github.io/repo/img/termuxvoid_logo.png" alt="TermuxVoid" width="100">
+  <img src="https://github.com/termuxvoid/repo/raw/main/img/termuxvoid_logo.png" alt="TermuxVoid" width="100">
 </p>
 
 <h1 align="center">TermuxVoid Website</h1>
