@@ -4,7 +4,7 @@
 
 const PackagesParser = (() => {
   const PACKAGES_URL =
-    'https://raw.githubusercontent.com/termuxvoid/repo/refs/heads/gh-pages/dists/termuxvoid/main/binary-all/Packages';
+    'https://raw.githubusercontent.com/aliheba125/repo/refs/heads/gh-pages/dists/termuxvoid/main/binary-all/Packages';
 
   /**
    * Parse a Debian Packages file into an array of objects.

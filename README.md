@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/termuxvoid/repo/raw/main/img/termuxvoid_logo.png" alt="TermuxVoid" width="100">
+  <img src="https://github.com/aliheba125/repo/raw/main/img/termuxvoid_logo.png" alt="TermuxVoid" width="100">
 </p>
 
 <h1 align="center">TermuxVoid Website</h1>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://termuxvoid.github.io"><img src="https://img.shields.io/badge/Site-Live-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000" alt="Live Site"></a>
-  <a href="https://github.com/TermuxVoid/repo/stargazers"><img src="https://img.shields.io/github/stars/TermuxVoid/repo?style=for-the-badge&logo=github&color=00ff41&labelColor=0a0a0a" alt="Stars"></a>
-  <a href="https://github.com/TermuxVoid/repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-BSD_3--Clause-00ff41?style=for-the-badge&logo=opensourceinitiative&logoColor=000" alt="License"></a>
+  <a href="https://aliheba125.github.io"><img src="https://img.shields.io/badge/Site-Live-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000" alt="Live Site"></a>
+  <a href="https://github.com/aliheba125/repo/stargazers"><img src="https://img.shields.io/github/stars/aliheba125/repo?style=for-the-badge&logo=github&color=00ff41&labelColor=0a0a0a" alt="Stars"></a>
+  <a href="https://github.com/aliheba125/repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-BSD_3--Clause-00ff41?style=for-the-badge&logo=opensourceinitiative&logoColor=000" alt="License"></a>
   <a href="https://t.me/nullxvoid"><img src="https://img.shields.io/badge/Telegram-Join-00ff41?style=for-the-badge&logo=telegram&logoColor=000" alt="Telegram"></a>
 </p>
 
@@ -51,18 +51,18 @@ A neon hacker-themed single-page site built with vanilla HTML, CSS, and JavaScri
 Clone and open locally:
 
 ```bash
-git clone https://github.com/TermuxVoid/termuxvoid.github.io.git
+git clone https://github.com/aliheba125/termuxvoid.github.io.git
 cd termuxvoid.github.io
 # Open index.html in any browser — no server required
 ```
 
-Or visit the live site: **[termuxvoid.github.io](https://termuxvoid.github.io)**
+Or visit the live site: **[aliheba125.github.io/termuxvoid.github.io](https://aliheba125.github.io/termuxvoid.github.io/)**
 
 ## Adding the Repository (Termux)
 
 ```bash
 # Add the TermuxVoid repository
-curl -sL https://termuxvoid.github.io/repo/install.sh | bash
+curl -sL https://aliheba125.github.io/repo/install.sh | bash
 
 # Install any tool
 pkg install <tool-name>
@@ -87,12 +87,12 @@ pkg install <tool-name>
 
 - **Telegram:** [@nullxvoid](https://t.me/nullxvoid)
 - **YouTube:** [@alienkrishnorg](https://youtube.com/@alienkrishnorg)
-- **Issues:** [GitHub Issues](https://github.com/TermuxVoid/repo/issues)
+- **Issues:** [GitHub Issues](https://github.com/aliheba125/repo/issues)
 - **Email:** [termuxvoid@gmail.com](mailto:termuxvoid@gmail.com)
 
 ## License
 
-This project is licensed under the [BSD 3-Clause License](https://github.com/TermuxVoid/repo/blob/main/LICENSE).
+This project is licensed under the [BSD 3-Clause License](https://github.com/aliheba125/repo/blob/main/LICENSE).
 
 ---
 
