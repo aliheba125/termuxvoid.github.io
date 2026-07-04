@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#020a02">
-  <title>Tool Details - TermuxVoid</title>
+  <title>Tool Details - Dragon</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -15,8 +15,8 @@
   <!-- ========== Header ========== -->
   <header class="header">
     <a class="header__logo" href="index.html">
-      <img src="https://github.com/aliheba125/repo/raw/main/img/termuxvoid_logo.png" alt="TermuxVoid Logo">
-      TermuxVoid
+      <img src="https://github.com/aliheba125/repo/raw/main/img/termuxvoid_logo.png" alt="Dragon Logo">
+      Dragon
     </a>
     <button class="menu-btn" id="menuBtn" aria-label="Toggle menu">&#9776;</button>
     <nav class="header__nav" id="navLinks">
@@ -38,7 +38,7 @@
   <!-- ========== Footer ========== -->
   <footer class="footer">
     <div>
-      <h3>TermuxVoid</h3>
+      <h3>Dragon</h3>
       <p>Security tools excluded from official Termux repos, plus custom builds.</p>
     </div>
     <div>
@@ -57,7 +57,7 @@
       </ul>
     </div>
     <div class="footer__credits">
-      &copy; 2026 TermuxVoid. Maintained by <a href="https://github.com/Anon4You" target="_blank" rel="noopener">Alienkrishn</a>.
+      &copy; 2026 Dragon. Maintained by <a href="https://github.com/Anon4You" target="_blank" rel="noopener">Alienkrishn</a>.
     </div>
   </footer>
 
@@ -85,7 +85,7 @@
       }
 
       // Update page title
-      document.title = `${toolName} - TermuxVoid`;
+      document.title = `${toolName} - Dragon`;
 
       try {
         const packages = await PackagesParser.fetchPackages();
@@ -103,7 +103,7 @@
           return;
         }
 
-        document.title = `${tool.name} - TermuxVoid`;
+        document.title = `${tool.name} - Dragon`;
         const installCmd = `pkg install ${tool.name}`;
         const deps = tool.depends ? tool.depends.split(',').map(d => d.trim()) : [];
         const sizeKB = (parseInt(tool.size) / 1024).toFixed(1);
