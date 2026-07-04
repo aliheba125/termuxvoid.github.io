@@ -12,7 +12,7 @@
   <a href="https://aliheba125.github.io"><img src="https://img.shields.io/badge/Site-Live-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000" alt="Live Site"></a>
   <a href="https://github.com/aliheba125/repo/stargazers"><img src="https://img.shields.io/github/stars/aliheba125/repo?style=for-the-badge&logo=github&color=00ff41&labelColor=0a0a0a" alt="Stars"></a>
   <a href="https://github.com/aliheba125/repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-BSD_3--Clause-00ff41?style=for-the-badge&logo=opensourceinitiative&logoColor=000" alt="License"></a>
-  <a href="https://t.me/nullxvoid"><img src="https://img.shields.io/badge/Telegram-Join-00ff41?style=for-the-badge&logo=telegram&logoColor=000" alt="Telegram"></a>
+  <a href="https://t.me/a1002a"><img src="https://img.shields.io/badge/Telegram-Join-00ff41?style=for-the-badge&logo=telegram&logoColor=000" alt="Telegram"></a>
 </p>
 
 ---
@@ -85,8 +85,9 @@ pkg install <tool-name>
 
 ## Community
 
-- **Telegram:** [@nullxvoid](https://t.me/nullxvoid)
-- **YouTube:** [@alienkrishnorg](https://youtube.com/@alienkrishnorg)
+- **Telegram:** [@a1002a](https://t.me/a1002a)
+- **WhatsApp:** [+964 782 321 0125](https://wa.me/9647823210125)
+- **WhatsApp:** [+964 782 321 0125](https://wa.me/9647823210125)
 - **Issues:** [GitHub Issues](https://github.com/aliheba125/repo/issues)
 - **Email:** [termuxvoid@gmail.com](mailto:termuxvoid@gmail.com)
 
